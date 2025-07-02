@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475228527649",
+    "project_id": "uas-native-177e6",
+    "storage_bucket": "uas-native-177e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475228527649:android:eda7b58b603de466f11760",
+        "android_client_info": {
+          "package_name": "com.android.uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjs3UTGK7WXR4y0acefhO-XH5soeyLVdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
